@@ -4,7 +4,7 @@ tokenvalue =""
 debug = ''
 
 #adminids
-adminids =[866560031,1429859162]
+adminids =[]
 #better use array and foreach
 
 #better use bot.me than this
